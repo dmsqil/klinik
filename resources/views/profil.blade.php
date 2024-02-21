@@ -9,8 +9,8 @@
 </head>
 
 <body>
-    <h2>Halaman Dimas</h2>
-    <a href='#'>,Contoh Branch Dimas</a>
+    <h2> Halaman Deni</h2>
+    <a href='#'>,Contoh Branch Deni</a>
 </body>
 
 </html>
